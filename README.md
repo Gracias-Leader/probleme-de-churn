@@ -144,7 +144,7 @@ jupyter notebook churn.ipynb
 ## 👤 Auteur
 
 **Bertin** — Data Science Practitioner  
-📍 Pointe-Noire, Congo  
+📍 Brazzaville, Congo  
 🎓 Licence Économie Quantitative — Université Marien Ngouabi  
 📜 IBM Data Science & Data Analyst Professional Certificates (Coursera)
 
